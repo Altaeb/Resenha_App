@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.074" height="17.074" viewBox="0 0 17.074 17.074">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1f6cbc;
+      }
+    </style>
+  </defs>
+  <g id="help" transform="translate(0)">
+    <path id="Caminho_2103" data-name="Caminho 2103" class="cls-1" d="M8.537,0a8.537,8.537,0,1,0,8.537,8.537A8.547,8.547,0,0,0,8.537,0Zm0,15.982a7.445,7.445,0,1,1,7.445-7.445A7.454,7.454,0,0,1,8.537,15.982Z"/>
+    <path id="Caminho_2104" data-name="Caminho 2104" class="cls-1" d="M96.447,65.326a2.864,2.864,0,0,0-2.86,2.86.546.546,0,0,0,1.092,0,1.769,1.769,0,1,1,1.769,1.769.546.546,0,0,0-.546.546v2.1a.546.546,0,1,0,1.092,0V70.995a2.861,2.861,0,0,0-.546-5.669Z" transform="translate(-87.91 -61.364)"/>
+    <path id="Caminho_2105" data-name="Caminho 2105" class="cls-1" d="M132.29,208.164a.546.546,0,1,0,.386.16A.549.549,0,0,0,132.29,208.164Z" transform="translate(-123.753 -195.537)"/>
+  </g>
+</svg>

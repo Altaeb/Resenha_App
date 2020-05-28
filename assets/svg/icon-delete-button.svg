@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="delete-button" width="50" height="50" viewBox="0 0 50 50">
+    <defs>
+        <style>
+            .cls-1{fill:#d65c5c}
+        </style>
+    </defs>
+    <g id="Grupo_43" data-name="Grupo 43">
+        <path id="Caminho_2117" d="M25 0a25 25 0 1 0 25 25A25.028 25.028 0 0 0 25 0zm0 46.721A21.721 21.721 0 1 1 46.721 25 21.745 21.745 0 0 1 25 46.721z" class="cls-1" data-name="Caminho 2117"/>
+        <path id="Caminho_2118" d="M147.869 131.177a1.672 1.672 0 0 0-2.365 0l-5.985 5.985-5.985-5.985a1.673 1.673 0 1 0-2.366 2.365l5.985 5.985-5.985 5.985a1.673 1.673 0 1 0 2.365 2.366l5.987-5.986 5.985 5.986a1.672 1.672 0 0 0 2.365-2.365l-5.985-5.986 5.985-5.985a1.672 1.672 0 0 0-.001-2.365z" class="cls-1" data-name="Caminho 2118" transform="translate(-114.519 -114.527)"/>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="6.6" height="11.2" viewBox="0 0 6.6 11.2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #1a5ea5;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="6.6" height="11.2"/>
+    </clipPath>
+  </defs>
+  <g id="Icon_Keyboard_Arrow_-_Right_Rounded" data-name="Icon / Keyboard Arrow - Right / Rounded" class="cls-2" transform="translate(0 0)">
+    <path id="Caminho_2044" data-name="Caminho 2044" class="cls-3" d="M630.9,4.7a.967.967,0,0,0,0,1.4l3.9,3.9-3.9,3.9a.99.99,0,0,0,1.4,1.4l4.6-4.6a.967.967,0,0,0,0-1.4l-4.6-4.6A.967.967,0,0,0,630.9,4.7Z" transform="translate(-630.6 -4.4)"/>
+  </g>
+</svg>

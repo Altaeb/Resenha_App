@@ -1,0 +1,51 @@
+Arguments: 
+  /Users/jorgefernandes/.nvm/versions/node/v10.13.0/bin/node /usr/local/Cellar/yarn/1.12.3/libexec/bin/yarn.js
+
+PATH: 
+  /Users/jorgefernandes/.nvm/versions/node/v10.13.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+
+Yarn version: 
+  1.12.3
+
+Node version: 
+  10.13.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Users/jorgefernandes/Documents/resenhaapp/package.json: Unexpected token } in JSON at position 506
+      at JSON.parse (<anonymous>)
+      at /usr/local/Cellar/yarn/1.12.3/libexec/lib/cli.js:1631:59
+      at Generator.next (<anonymous>)
+      at step (/usr/local/Cellar/yarn/1.12.3/libexec/lib/cli.js:304:30)
+      at /usr/local/Cellar/yarn/1.12.3/libexec/lib/cli.js:315:13
+
+npm manifest: 
+  {
+    "name": "ResenhaApp",
+    "main": "node_modules/expo/AppEntry.js",
+    "scripts": {
+      "start": "expo start",
+      "android": "expo start --android",
+      "ios": "expo start --ios",
+      "eject": "expo eject"
+    },
+    "dependencies": {
+      "expo": "^33.0.0",
+      "react": "16.8.3",
+      "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
+      "react-native-vector-icons": "^6.5.0",
+      "react-navigation": "^3.11.0"
+    },
+    "devDependencies": {
+      "babel-preset-expo": "^5.0.0",
+    },
+    "private": true
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

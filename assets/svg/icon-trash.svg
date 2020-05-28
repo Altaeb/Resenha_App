@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12.127" height="13.636" viewBox="0 0 12.127 13.636">
+    <defs>
+        <style>
+            .cls-1{fill:#707070}
+        </style>
+    </defs>
+    <g id="trash" transform="translate(-26.9)">
+        <g id="Grupo_397" data-name="Grupo 397" transform="translate(26.9)">
+            <path id="Caminho_2089" d="M38.649 1.962h-2.837V1.5a1.5 1.5 0 0 0-1.5-1.5h-2.7a1.5 1.5 0 0 0-1.5 1.5v.463h-2.834a.378.378 0 1 0 0 .757h.684v8.892a2.027 2.027 0 0 0 2.024 2.024h5.954a2.027 2.027 0 0 0 2.024-2.024V2.719h.684a.378.378 0 1 0 0-.757zM30.872 1.5a.744.744 0 0 1 .743-.743h2.7a.744.744 0 0 1 .743.743v.463h-4.186zm6.336 10.112a1.269 1.269 0 0 1-1.267 1.267h-5.954a1.269 1.269 0 0 1-1.267-1.267V2.719h8.491v8.892z" class="cls-1" data-name="Caminho 2089" transform="translate(-26.9)"/>
+            <path id="Caminho_2090" d="M230.078 152.846a.377.377 0 0 0 .378-.378v-6.689a.378.378 0 1 0-.757 0v6.686a.379.379 0 0 0 .379.381z" class="cls-1" data-name="Caminho 2090" transform="translate(-224.015 -141.324)"/>
+            <path id="Caminho_2091" d="M141.978 166.813a.377.377 0 0 0 .378-.378v-5.856a.378.378 0 0 0-.757 0v5.856a.379.379 0 0 0 .379.378z" class="cls-1" data-name="Caminho 2091" transform="translate(-138.385 -155.709)"/>
+            <path id="Caminho_2092" d="M318.178 166.813a.377.377 0 0 0 .378-.378v-5.856a.378.378 0 0 0-.757 0v5.856a.377.377 0 0 0 .379.378z" class="cls-1" data-name="Caminho 2092" transform="translate(-309.645 -155.709)"/>
+        </g>
+    </g>
+</svg>

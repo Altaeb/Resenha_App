@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13.2" height="13.2" viewBox="0 0 13.2 13.2">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{opacity:.5;clip-path:url(#clip-path)}
+        </style>
+        <clipPath id="clip-path">
+            <path d="M0 0h13.2v13.2H0z" class="cls-1"/>
+        </clipPath>
+    </defs>
+    <g id="Close" class="cls-2">
+        <path id="Caminho_2016" d="M111.8 3.3a.967.967 0 0 0-1.4 0l-4.9 4.9-4.9-4.9a.99.99 0 0 0-1.4 1.4l4.9 4.9-4.9 4.9a.99.99 0 0 0 1.4 1.4l4.9-4.9 4.9 4.9a.99.99 0 1 0 1.4-1.4l-4.9-4.9 4.9-4.9a.967.967 0 0 0 0-1.4z" data-name="Caminho 2016" transform="translate(-98.9 -3)"/>
+    </g>
+</svg>

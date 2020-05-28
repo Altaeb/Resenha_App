@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7.171" height="4.6" viewBox="0 0 7.171 4.6">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#1a5ea5}
+        </style>
+        <clipPath id="clip-path">
+            <path d="M0 0h7.171v4.6H0z" class="cls-1"/>
+        </clipPath>
+    </defs>
+    <g id="Arrow_Drop_Down" class="cls-2" data-name="Arrow Drop Down">
+        <path id="Caminho_2028" d="M342.6 9.4l2.6 2.6a.967.967 0 0 0 1.4 0l2.6-2.6a1 1 0 0 0-.7-1.7h-5.2a1 1 0 0 0-.7 1.7z" class="cls-3" data-name="Caminho 2028" transform="translate(-342.315 -7.7)"/>
+    </g>
+</svg>
